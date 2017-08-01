@@ -1,0 +1,26 @@
+<svg width="20" height="16" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Menu-icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-265 490)">
+<g id="Menu-icon">
+<g id="icons">
+<g id="menu">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(265 -484)"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(265 -490)"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(265 -478)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 18 0L 2 0C 0.9 0 0 0.9 0 2C 0 3.1 0.9 4 2 4L 18 4C 19.1 4 20 3.1 20 2C 20 0.9 19.1 0 18 0Z"/>
+<path id="path1_fill" d="M 2 4L 14 4C 15.1 4 16 3.1 16 2C 16 0.9 15.1 0 14 0L 2 0C 0.9 0 0 0.9 0 2C 0 3.1 0.9 4 2 4Z"/>
+<path id="path2_fill" d="M 14 0L 2 0C 0.9 0 0 0.9 0 2C 0 3.1 0.9 4 2 4L 14 4C 15.1 4 16 3.1 16 2C 16 0.9 15.1 0 14 0Z"/>
+</defs>
+</svg>

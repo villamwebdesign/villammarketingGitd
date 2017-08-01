@@ -1,0 +1,1 @@
+var customerHelp = function(e){$('.customer-help').fadeIn(1000);}setTimeout(customerHelp, 18000);$('#decline-help').click(function(){$('.customer-help').fadeOut(1000);});

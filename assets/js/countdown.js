@@ -1,0 +1,1 @@
+function countdown(){var counter = 5;var id;var result = 0;id = setInterval(function() {counter--;if(counter < 0) {$("#time").text("Start!");clearInterval(id);$("#time").addClass("animated bounceOut");} else {var text = "00:0" + counter.toString();$("#time").text(text);}}, 1000);}//The Whole thing is jQuery dependent
